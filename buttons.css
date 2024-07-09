@@ -1,0 +1,398 @@
+.subscribe-button{
+    background-color: rgb(223, 13, 13);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor:pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-right: 8px;
+    
+
+}
+.subscribe-button:hover{
+    opacity: 0.8;
+}
+.subscribe-button:active{
+    opacity: 0.5;
+}
+.join-button{
+    background-color:white;
+    color: rgb(42, 126, 187);
+    border-color: blue;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    cursor:pointer;
+    margin-right: 8px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: background-color 0.15s;
+    color: 0.15s;
+    
+
+}
+.join-button:hover{
+    background-color:rgb(42, 126, 187) ;
+    color: white;
+}
+.join-button:active{
+    opacity: 0.5;
+}
+.tweet-button{
+    background-color:rgb(56, 119, 190);
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 18px;
+    cursor:pointer;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: box-shadow 0.15s;
+   
+    
+
+}
+.tweet-button:hover{
+    box-shadow:5px,5px,10px rgba(0,0,0,0.15) ;
+    
+}
+
+.Uber{
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor:pointer;
+
+    
+
+}
+.Uber:hover{
+    opacity: 0.8;
+}
+.Uber:active{
+    opacity: 0.5;
+}
+.Amazon{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    border-radius: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 35px;
+    padding-right: 35px;
+    cursor:pointer;
+    transition:background-color 0.15s;
+ 
+    
+}
+.Amazon:hover{
+    background-color:rgb(241, 211, 20) ;
+    
+}
+.Amazon:active{
+    opacity: 0.5;
+}
+.GitHub{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-radius: 4px;
+    cursor:pointer;
+    transition: box-shadow 0.15s;
+    
+}
+.GitHub:hover{
+    box-shadow:5px,5px,10px rgba(0,0,0,0.15) ;
+    
+}
+.Bootstrap1{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 3px;
+    cursor:pointer;
+    margin-right: 6px;
+    transition: background-color 0.15s;
+    
+    
+
+}
+.Bootstrap1:hover{
+    background-color:rgb(213, 102, 191) ;
+    
+}
+.Bootstrap1:active{
+    opacity: 0.15s;
+}
+.Bootstrap2{
+    background-color:white;
+    color: rgb(108, 117, 125);
+    border-style:solid;
+    border-color: rgb(108, 117, 125) ;
+    border-width: 1px;
+    font-weight: bold;
+    font-size: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-radius: 3px;
+    cursor:pointer;
+   transition: background-color 0.15s;
+    color 0.15s;
+    
+    
+
+}
+.Bootstrap2:hover{
+    background-color: rgb(108, 117, 125);
+    color: white;
+    
+}
+.Bootstrap2:active{
+    opacity: 0.15s;
+}
+.LinkedIn1{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 20px;
+    cursor:pointer;
+    margin-right: 6px;
+    
+    
+
+}
+.LinkedIn1:hover{
+    background-color:rgb(90, 57, 238) ;
+    
+}
+.LinkedIn21:active{
+    opacity: 0.15s;
+}
+.LinkedIn2{
+    background-color:white;
+    color: rgb(10, 102, 194);
+    border-style:solid;
+    border-color: rgb(10, 102, 194) ;
+    border-width: 1px;
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 20px;
+    cursor:pointer;
+    transition:background-color 0.15s ;
+   
+    
+    
+
+}
+.LinkedIn2:active{
+    background-color: rgb(117, 175, 226);
+    border-width: 3px;
+    
+}
+.Bootstrap2:active{
+    opacity: 0.15s;
+}
+.App{
+    color:rgb(0,113,133);
+
+}
+.Brand{
+    font-weight: bold;
+    font-size: 30px;
+
+
+}
+.cost{
+    color:rgb(0,136,0);
+    font-weight: bold;
+
+}
+
+.Add to cart{
+    background-color: rgb(249, 217, 76);
+    border: none;
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    margin-right: 8px;
+    cursor: pointer;
+
+}
+.buynow{
+    background-color: rgb(255,164,28);
+    border:none;
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    margin-right: 8px;
+    cursor: pointer;
+
+}
+.amazon-link {
+  color: rgb(0, 113, 133);
+}
+
+.amazon-link:hover {
+  color: rgb(199, 81, 31);
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.price {
+  color: rgb(0, 136, 0);
+  font-weight: bold;
+}
+
+.add-to-cart-button {
+  background-color: rgb(249, 217, 76);
+  border: none;
+  height: 30px;
+  width: 110px;
+  border-radius: 15px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.add-to-cart-button:hover {
+  background-color: rgb(247, 202, 0);
+}
+
+.add-to-cart-button:active {
+  opacity: 0.5;
+}
+
+.buy-now-button {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  height: 30px;
+  width: 110px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.buy-now-button:hover {
+  background-color: rgb(250, 137, 0);
+}
+
+.buy-now-button:active {
+  opacity: 0.5;
+}
+.back{
+    margin-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+}
+.search-result{
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 19px;
+}
+.next{
+    margin-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+}
+.stretch{
+    background-color: rgb(4, 83, 4);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    transition: padding-top 1s;
+    padding-bottom: 1s;
+    padding-left: 1s;
+    padding-right: 1s;
+    
+}
+
+.stretch:hover{
+    padding-left:60px ;
+    padding-right:60px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.shadow{
+    background-color: rgb(4, 83, 4);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    transition: padding-top 1s;
+    padding-bottom: 1s;
+    padding-left: 1s;
+    padding-right: 1s;
+    box-shadow: 0px, 0px, 0.3px rgba(0,0,0,0.15);
+    
+}
+.shadow:active{
+    margin-top: 3px;
+    margin-left: 3px;
+    box-shadow: none;
+}
+.search{
+    background-color: rgb(4, 83, 4);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 4px;
+    margin-right: 4px;
+
+
+    
+    
+}
